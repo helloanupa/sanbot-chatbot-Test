@@ -20,13 +20,6 @@ React/Vite voice chatbot frontend. The app is configured for GitHub Pages at:
    npm run dev
    ```
 
-For GitHub Actions, add these repository variables under **Settings > Secrets and variables > Actions > Variables**:
-
-```text
-VITE_API_BASE=https://voice-app.raccoon-ai.io
-VITE_WS_URL=wss://voice-app.raccoon-ai.io/api/voice/live
-```
-
 4. Verify the production build:
 
    ```bash
