@@ -1,6 +1,6 @@
 # SLTMobitel Voice Chatbot
 
-React/Vite voice chatbot frontend. The app is configured for GitHub Pages at:
+React/Vite voice chatbot frontend. GitHub Pages currently serves a frontend-only preview, so it does not request microphone access or connect to the backend. The app is configured for GitHub Pages at:
 
 `https://helloanupa.github.io/sanbot-chatbot-Test/`
 
